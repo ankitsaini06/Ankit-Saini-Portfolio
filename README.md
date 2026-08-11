@@ -29,7 +29,7 @@ https://foodie-responsive-website.vercel.app/
 **Languages:** C, C++, Java, Python, JavaScript  
 **Frontend:** React, Next.js, HTML, CSS, Tailwind CSS  
 **Backend:** Node.js, Express.js, MongoDB  
-**Tools:** Git, GitHub, VS Code, Figma
+**Tools:** Git, GitHub, VS Code
 
 ## 👨‍💻 About Me
 
