@@ -1,3 +1,79 @@
+// export const projects = [
+//   {
+//     id: 'shelfwise',
+//     name: 'ShelfWise — Library Management System',
+//     tagline: 'A full-stack library management system with separate Admin and Student dashboards.',
+//     category: 'Full Stack',
+//     featured: true,
+//     image: 'assets/project-shelfwise.png',
+//     techStack: [
+//       'React.js',
+//       'Node.js',
+//       'Express.js',
+//       'MongoDB',
+//       'JWT',
+//       'Tailwind CSS',
+//     ],
+//     features: [
+//       'Admin and Student dashboards',
+//       'JWT authentication',
+//       'Email OTP verification',
+//       'Role-based access control',
+//       'Book management',
+//       'Student management',
+//       'Book issue and return tracking',
+//       'Due-date tracking',
+//       'Automatic fine calculation',
+//       'Responsive dashboards',
+//     ],
+//     github: 'https://github.com/ankitsaini06/ShelfWise-Library-Management-System',
+//     demo: 'https://shelf-wise-library-management-syste.vercel.app/',
+//   },
+//   {
+//     id: 'foodie',
+//     name: 'Foodie — Responsive Food Ordering Website',
+//     tagline: 'A responsive food ordering website with dynamic menu, shopping cart, and interactive UI.',
+//     category: 'Frontend',
+//     featured: false,
+//     image: 'assets/project-foodie.png',
+//     techStack: ['HTML5', 'CSS3', 'JavaScript', 'Swiper.js'],
+//     features: [
+//       'Dynamic menu',
+//       'Shopping cart',
+//       'Customer review slider',
+//       'Mobile-friendly navigation',
+//       'Newsletter subscription',
+//       'Interactive UI components',
+//       'Responsive design',
+//     ],
+//     github: 'https://github.com/ankitsaini06/Foodie-Responsive-Website',
+//     demo: 'https://foodie-responsive-website.vercel.app/',
+//   },
+//   {
+//     id: 'fake-news-detection',
+//     name: 'Fake News Detection System',
+//     tagline: 'A machine learning classification model for detecting fake news articles.',
+//     category: 'Machine Learning',
+//     featured: false,
+//     image: 'assets/project-fake-news.png',
+//     techStack: ['Python', 'Machine Learning', 'Scikit-learn'],
+//     features: [
+//       'Data preprocessing',
+//       'Feature extraction',
+//       'Supervised learning',
+//       'Model training',
+//       'Accuracy evaluation',
+//       'Precision and recall evaluation',
+//     ],
+//     github: 'https://github.com/ankitsaini06/Fake-News-Detection',
+//     demo: 'coming soon',
+//   },
+// ]
+
+// export const projectCategories = ['All', 'Full Stack', 'Frontend', 'Machine Learning']
+
+
+
 export const projects = [
   {
     id: 'shelfwise',
@@ -29,6 +105,36 @@ export const projects = [
     github: 'https://github.com/ankitsaini06/ShelfWise-Library-Management-System',
     demo: 'https://shelf-wise-library-management-syste.vercel.app/',
   },
+
+  {
+    id: 'nexora',
+    name: 'Nexora — Multi-Agent AI Platform',
+    tagline: 'An AI-powered platform for chat, search, coding, PDF, PPT, and vision workflows.',
+    category: 'Full Stack',
+    featured: false,
+    image: 'assets/project-nexora.png',
+    techStack: [
+      'React.js',
+      'Node.js',
+      'Express.js',
+      'MongoDB',
+      'JavaScript',
+    ],
+    features: [
+      'AI-powered chat',
+      'Web search',
+      'Code generation',
+      'PDF workflows',
+      'PPT generation',
+      'Image and vision workflows',
+      'User authentication',
+      'File upload support',
+      'Subscription and payment functionality',
+    ],
+    github: 'https://github.com/ankitsaini06/Nexora',
+    demo: 'https://nexora-pied-rho.vercel.app/',
+  },
+
   {
     id: 'foodie',
     name: 'Foodie — Responsive Food Ordering Website',
@@ -49,25 +155,6 @@ export const projects = [
     github: 'https://github.com/ankitsaini06/Foodie-Responsive-Website',
     demo: 'https://foodie-responsive-website.vercel.app/',
   },
-  {
-    id: 'fake-news-detection',
-    name: 'Fake News Detection System',
-    tagline: 'A machine learning classification model for detecting fake news articles.',
-    category: 'Machine Learning',
-    featured: false,
-    image: 'assets/project-fake-news.png',
-    techStack: ['Python', 'Machine Learning', 'Scikit-learn'],
-    features: [
-      'Data preprocessing',
-      'Feature extraction',
-      'Supervised learning',
-      'Model training',
-      'Accuracy evaluation',
-      'Precision and recall evaluation',
-    ],
-    github: 'https://github.com/ankitsaini06/Fake-News-Detection',
-    demo: 'coming soon',
-  },
 ]
 
-export const projectCategories = ['All', 'Full Stack', 'Frontend', 'Machine Learning']
+export const projectCategories = ['All', 'Full Stack', 'Frontend']
